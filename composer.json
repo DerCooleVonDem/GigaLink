@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "jaxkdev/discordbot": "^2.1"
+    }
+}
