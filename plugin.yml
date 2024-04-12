@@ -4,4 +4,6 @@ version: 0.0.1
 main: DerCooleVonDem\GigaLink\Main
 api: 5.14.1
 src-namespace-prefix: DerCooleVonDem\GigaLink
+virions:
+  - "DiscordBot"
 ...
